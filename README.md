@@ -1,2 +1,2 @@
 # python-basics
-GeekBrains. Основы языка Python. Практические задания.
+GeekBrains. Python basics. Practical tasks.
