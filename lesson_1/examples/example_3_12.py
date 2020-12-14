@@ -1,0 +1,6 @@
+name = input('input your name: ')
+# print('Hello, %s!' % name)
+# print('Hello, {}!'.format(name))
+# print('Hello, {:s}!'.format(name))
+# print(f'Hello, {name}!')
+print(f'Hello, {name:s}!')
