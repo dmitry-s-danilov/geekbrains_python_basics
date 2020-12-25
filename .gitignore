@@ -1,10 +1,10 @@
-# educational materials
+# course materials
 materials/
 
-# JetBrains features
+# JetBrains
 .idea/
 
-# vim temp
+# vim
 *~
 
 # Created by .ignore support plugin (hsz.mobi)
